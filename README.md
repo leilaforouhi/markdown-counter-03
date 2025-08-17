@@ -3,7 +3,7 @@
 Text & Code Stats Reporter
 - Scans the current repository (recursively) for text-like files
 - Computes lines/words/chars per file.
-- Saves a machine-readable summary to report.json and prints a short summary.
+- Saves a machine-readable summary to report.json and prints a short summa.
 """
 
 from __future__ import annotations
